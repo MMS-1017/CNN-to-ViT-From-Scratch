@@ -1,4 +1,4 @@
-# Computer Vision From Scratch 🚀
+# CNN-to-ViT-From-Scratch 🚀
 
 ## Overview
 This repository provides **end-to-end implementations of modern computer vision architectures built from scratch using PyTorch**. The project is designed to build a deep, practical understanding of how vision models work internally, starting from basic Convolutional Neural Networks (CNNs) and progressing through VGG-style networks, ResNet, and finally Vision Transformers (ViT).
