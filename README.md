@@ -63,10 +63,7 @@ Computer-Vision-From-Scratch/
 ├── 03_ResNet/
 │   └── resnet_from_scratch.ipynb
 │
-├── 04_Advanced_CNNs/
-│   └── regularization_and_augmentation.ipynb
-│
-├── 05_Vision_Transformer/
+├── 04_Vision_Transformer/
 │   └── vit_from_scratch.ipynb
 │
 ├── requirements.txt
