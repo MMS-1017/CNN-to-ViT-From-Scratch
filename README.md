@@ -59,6 +59,7 @@ Computer-Vision-From-Scratch/
 │
 ├── 04_Vision_Transformer/
 │   └── vit_from_scratch.ipynb
+│   └── vit_from_scratch_improved.ipynb
 │
 ├── requirements.txt
 └── README.md
