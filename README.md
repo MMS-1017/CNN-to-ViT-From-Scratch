@@ -35,13 +35,7 @@ Most tutorials rely heavily on pretrained models and hidden abstractions. This r
 - Modular architecture design
 - ResNet-18 style implementation
 
-### 4. Advanced CNN Concepts
-- Batch Normalization
-- Dropout
-- Data Augmentation
-- Training stability and generalization
-
-### 5. Vision Transformer (ViT)
+### 4. Vision Transformer (ViT)
 - Image patch embedding
 - Positional encoding
 - Multi-head self-attention
